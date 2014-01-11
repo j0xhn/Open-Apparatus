@@ -1,0 +1,296 @@
+label{
+	margin:15px 0px 10px 0px;
+}
+#project-content{
+	width: 65.5%;
+	float: left;
+}
+
+#project-sidebar{
+	float: right;
+	width: 31.5%;
+}
+
+#project-sidebar h2{
+	font-size: 1.6em;
+	font-weight: 500;
+	padding-bottom: 0.25em;
+	margin-bottom: 0.35em;
+	border-bottom: 1px solid #DDD;
+}
+
+#project-sidebar .f-powered-by{
+	display: block;
+	margin: 1em 0;
+}
+
+#project-rewards-list,
+#project-details, #funding-comments{
+	list-style: none;
+	margin: 0  0 2em 0;
+}
+#funding-comments, #funding-comments li, #funding-comments li textarea{
+	width:100%;
+}
+#funding-comments li textarea{
+	height:130px;
+	padding:15px;
+	font-size:12px;
+}
+#funding-comments{
+	margin-left:0px !important;	
+}
+.funding-comments-title{
+	margin:25px 0px 10px 0px !important;
+}
+
+/* @group Project Details */
+
+#project-details li{
+	margin-bottom: 0.75em;
+}
+
+#project-details li h3{
+	font-size: 1.75em;
+	font-weight: 500;
+	margin: 0;
+	line-height: 1.25em;
+}
+
+#project-details li small{
+	display: block;
+	color: #999;
+	font-size: 0.9em;
+	font-style: italic;
+	margin: 0;
+}
+
+/* @end */
+
+/* @group Reward List */
+
+.funding-perk-content, #project-rewards-list input[type="radio"]{
+	float:left;
+}
+#project-rewards-list input[type="radio"]{
+	margin-top:9px;
+}
+
+.funding-perk-content{
+	width:93%;
+	margin-left:15px;
+}
+.funding-perk-content h5{
+	margin:5px 0px 10px 0px;
+	padding:0px;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+#project-rewards-list h4{
+	color: #333;
+	font-size: 1.1em;
+	font-weight: 500;
+}
+
+#project-rewards-list a:hover h4{
+	text-decoration: none;
+}
+
+#project-rewards-list .min-amount{
+	margin-bottom: 0.25em;
+	font-style: italic;
+}
+
+#project-rewards-list .available{
+	margin-bottom: 0.25em;
+	color: #999;
+}
+
+#project-rewards-list a:hover{
+	text-decoration: none;
+}
+
+/* @end */
+
+/* @group Form */
+
+#form-error-message{
+	padding: 15px;
+	background: #ffedea;
+	border: 1px solid #ffa19f;
+	margin: 1em 0;
+	font-weight: 500;
+}
+
+#funding-form h3{
+	margin:40px 0px 25px 0px;
+}
+
+#funding-form .span7{
+	width:58%;
+	margin-left:0px !important; 
+	background:#f1f1f1;
+	padding:30px;
+	border:1px solid #d0d5cb;
+}
+#funding-form .span4{
+	width:29%;
+}
+
+#funding-form dl,
+#funding-form ul{
+	margin-left: 15px;
+	margin-right: 0;
+}
+
+#funding-form .description{
+	font-size: 0.9em;
+	color: #999;
+	font-style: italic;
+}
+
+#project-rewards-list span{
+	font-size: 28px;
+	font-weight: bold;
+	float:left;
+	display:block;
+	padding:15px 10px 0px 0px;
+}
+#funding-form #field-amount{
+	border: 1px solid;
+	font-size: 28px;
+	font-weight: bold;
+	padding: 7px 7px 7px 10px;
+	display: inline;
+	width: 230px;
+	float:left;
+	}
+
+
+/* @group Button */
+
+#funding-form .submit{
+	text-align: center;
+	margin: 0.5em 0;
+}
+
+#funding-form .payments{
+	width: 253px;
+	margin: 0.5em auto;
+}
+
+#funding-form .f-button{
+	padding: 8px 14px;
+
+	background: #f3f4f4; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f3f4f4 0%, #dadcdc 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f3f4f4), color-stop(100%,#dadcdc)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f3f4f4 0%,#dadcdc 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f3f4f4 0%,#dadcdc 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f3f4f4 0%,#dadcdc 100%); /* IE10+ */
+	background: linear-gradient(top,  #f3f4f4 0%,#dadcdc 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f4f4', endColorstr='#dadcdc',GradientType=0 ); /* IE6-9 */
+
+	border:1px solid #8a8a8a;
+
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.2), inset 0 -1px 0 rgba(0,0,0,0.05), inset 0 1px 0 rgba(255,255,255,0.5);
+	-moz-box-shadow: 0 1px 1px rgba(0,0,0,0.2), inset 0 -1px 0 rgba(0,0,0,0.05), inset 0 1px 0 rgba(255,255,255,0.5);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.2), inset 0 -1px 0 rgba(0,0,0,0.05), inset 0 1px 0 rgba(255,255,255,0.5);
+
+	font-size: 13px;
+	font-weight: 600;
+
+	color: #575757;
+	text-shadow: 0 1px 0 #FFF;
+
+	cursor: pointer;
+}
+
+#funding-form .f-button:hover{
+	background: #f9fafa; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f9fafa 0%, #edeeee 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9fafa), color-stop(100%,#edeeee)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f9fafa 0%,#edeeee 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f9fafa 0%,#edeeee 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f9fafa 0%,#edeeee 100%); /* IE10+ */
+	background: linear-gradient(top,  #f9fafa 0%,#edeeee 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fafa', endColorstr='#edeeee',GradientType=0 ); /* IE6-9 */
+}
+
+#funding-form .f-button:active{
+	background: #7c7b7b; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7c7b7b 0%, #969595 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7c7b7b), color-stop(100%,#969595)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7c7b7b 0%,#969595 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7c7b7b 0%,#969595 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7c7b7b 0%,#969595 100%); /* IE10+ */
+	background: linear-gradient(top,  #7c7b7b 0%,#969595 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7c7b7b', endColorstr='#969595',GradientType=0 ); /* IE6-9 */
+
+	border-color: #828181;
+
+	-webkit-box-shadow: inset 0 2px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 0 2px 1px rgba(0,0,0,0.5);
+	box-shadow: inset 0 2px 1px rgba(0,0,0,0.5);
+
+	color: #f1f5f6;
+	text-shadow: 0 1px 0 black;
+}
+
+
+
+/* @end */
+
+#funding-form #funding-information{
+	display: none;
+}
+
+#funding-form #funding-information h4{
+	font-size: 1.1em;
+	font-weight: 500;
+}
+
+
+
+/* @end */
+
+/* right side */
+#funding-form .project-card{
+	width:90%;
+	margin-right: 0px !important;
+	
+}
+#funding-form .project-card img{
+	width:100%;
+	
+}
+
+.notice{
+	float:left;
+	background: #f1f1f1;
+	padding: 10px;
+	border: 1px solid #e2e2e2; 
+	margin-bottom:15px;
+}
+.notice h6{
+	margin-top:0px;
+	
+}
+
+/* @group Messages */
+
+.f-thanks {
+	padding: 15px;
+	background: #EFEFEF;
+	border: 1px solid #C0C0C0;
+	-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.125);
+}
+
+
+
+/* @end */

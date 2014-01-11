@@ -1,0 +1,212 @@
+
+/* ********** */
+/* Project admin panel css */
+/* ********** */
+
+
+
+/*
+ *
+ *  General
+ *
+ */
+body.user_project{
+	color: #5a5a5a;
+}
+body.user_project #wpcontent a, body.user_project footer a, body.user_project .copyright a, body.user_project .breadcrumbs a{
+  text-decoration: none;
+  transition:all 0.35s ease-in-out;
+  -moz-transition:all 0.35s ease-in-out;
+  -webkit-transition:all 0.35s ease-in-out;
+  -o-transition:all 0.35s ease-in-out;
+}
+body.user_project #wpcontent a:hover, body.user_project footer a:hover, body.user_project .copyright a:hover, body.user_project .breadcrumbs a:hover{
+  color:#000;
+  text-decoration: none;
+  transition:all 0.35s ease-in-out;
+  -moz-transition:all 0.35s ease-in-out;
+  -webkit-transition:all 0.35s ease-in-out;
+  -o-transition:all 0.35s ease-in-out;
+}
+body.user_project footer .tagcloud a{
+	color:#fff !important;
+}
+body.user_project #wpcontent a.submitdelete{
+	color:#f00 !important;
+}
+body.user_project #wpcontent a.submitdelete:hover{
+	color:#fff !important;
+}
+body.user_project h3 span{
+	font-weight:bold;
+}
+body.user_project #wpcontent ul, body.user_project #wpcontent li, body.user_project #wpcontent dd,
+body.user_project .navbar-wrapper ul, body.user_project .navbar-wrapper li, body.user_project .navbar-wrapper dd
+{
+	margin:0px;
+	padding:0px;
+}
+body.user_project .tagcloud{
+	text-align:inherit !important;
+}
+body.user_project *{
+	font-family: Arial, Helvetica, sans-serif !important;
+	line-height: 1.7em !important;
+}
+body.user_project #adminmenuback, body.user_project #adminmenuwrap{
+	display:none !important;
+}
+body.user_project #wpcontent{
+	margin:20px !important;
+}
+body.user_project input[type="submit"]:hover{
+
+}
+body.user_project .widget, body.user_project #widget-list .widget-top, body.user_project .postbox, body.user_project .menu-item-settings,
+body.user_project .widget .widget-top, body.user_project .postbox h3, body.user_project .stuffbox h3, body.user_project .widefat thead tr th,
+body.user_project .widefat tfoot tr th, body.user_project h3.dashboard-widget-title, body.user_project h3.dashboard-widget-title span,
+body.user_project h3.dashboard-widget-title small, body.user_project .sidebar-name,
+body.user_project #nav-menu-header, body.user_project #nav-menu-footer, body.user_project .menu-item-handle{
+	background-color:#eeeeee !important;
+	border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	background-image:none !important;
+}
+
+body.user_project .widefat, body.user_project div.updated, body.user_project div.error, body.user_project .wrap .add-new-h2,
+body.user_project textarea, body.user_project input[type="text"], body.user_project input[type="password"], body.user_project input[type="file"],
+body.user_project input[type="email"], body.user_project input[type="number"], body.user_project input[type="search"], body.user_project input[type="tel"],
+body.user_project input[type="url"], body.user_project select, body.user_project .tablenav .tablenav-pages a, body.user_project .tablenav-pages span.current,
+body.user_project #titlediv #title, body.user_project .postbox, body.user_project #postcustomstuff table, body.user_project #postcustomstuff input,
+body.user_project #postcustomstuff textarea, body.user_project .imgedit-menu div, body.user_project .plugin-update-tr .update-message, body.user_project #poststuff .inside .the-tagcloud,
+body.user_project .login form, #login_error, body.user_project .login .message, body.user_project #menu-management .menu-edit, body.user_project .nav-menus-php .list-container, body.user_project .menu-item-handle, body.user_project .link-to-original,
+body.user_project .nav-menus-php .major-publishing-actions .form-invalid, body.user_project .press-this #message, #TB_window, body.user_project .tbtitle, body.user_project .highlight,
+body.user_project .feature-filter, body.user_project #widget-list .widget-top, body.user_project .editwidget .widget-inside{
+	-webkit-border-radius: 0px !important;
+	border-radius: 0px !important;
+}
+
+body.user_project #wpcontent .button{
+	text-shadow:none;
+}
+
+body.user_project .handlediv{
+	display:none;
+}
+
+body.user_project .page-title {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: transparent;
+    background-image: url("../img/title_bg.jpg");
+    background-origin: padding-box;
+    background-position: center top;
+    background-repeat: repeat-x;
+    background-size: auto auto;
+    height: 73px;
+}
+body.user_project #wpwrap #wpcontent #wpbody #wpbody-content .wrap .page-title{
+
+}
+body.user_project #project_rewards{
+	background: white !important;
+	border: 0;
+}
+body.user_project #project_rewards .inside{
+	padding:0;
+	margin-top:10px;
+	
+}
+body.user_project #project_rewards h3{
+	border: 1px solid #e2e2e2;
+}
+body.user_project #project_rewards input[type=text]{
+	width: 100%;
+}
+body.user_project #project_rewards #reward-inputs{
+	border:1px solid #ddd;
+}
+body.user_project #project_rewards #current-rewards li{
+	padding: 10px;
+	background: #eeeeee;
+	border: 1px solid #ddd;
+	margin-bottom: 10px;
+}
+body.user_project #project_rewards #add-reward-save{
+	margin-top:10px;
+}
+
+body.user_project #categorychecklist, body.user_project #categorychecklist-pop{
+	padding:5px 0px 5px 5px !important;
+}
+body.user_project #categorychecklist li{
+	border-top: 1px solid #e2e2e2;
+}
+body.user_project #categorychecklist li:first-child{
+	border-top: 0px;
+}
+body.user_project #category-pop{
+	padding: 0 .9em;
+}
+body.user_project .selectit, {
+	font-size:12px !important;
+}
+body.user_project #category-tabs .tabs{
+	padding:5px;
+}
+body.user_project #searchform input[type="text"]{
+	padding: 10px 15px 10px 15px !important;
+	border-right: 1px solid #1d1d1d;
+	border-left: 1px solid #1d1d1d;
+	color: #666;
+	border-top:0px;
+	height:41px;
+	border-bottom:0px;
+}
+
+body.user_project .tabs-panel{
+	max-height:none !important;
+}
+body.user_project selectit input[type="radio"]{ 
+    margin-top: 2px;
+	margin-right: 4px;
+}
+body.user_project .selectit{
+	margin:0px;
+	padding:10px 0px 10px 0px;
+}
+
+
+body.user_project .media-frame a.button-hero{
+	padding-top:10px !important;
+}
+body.user_project .media-frame a.media-button-select{
+	padding-top:4px !important;
+}
+
+body.user_project #titlediv #title-prompt-text, body.user_project #wp-fullscreen-title-prompt-text{
+	padding:4px 10px !important;
+}
+
+body.user_project .wp-media-buttons a.thickbox.button{ 
+	display:none !important;
+}
+
+body.user_project #minor-publishing-actions{
+	width:70px !important;
+	float:right !important;
+}
+body.user_project #minor-publishing-actions, #visibility, .default-password-nag, #wpbody-content .error, #category-tabs{
+	display:none;
+}
+body.user_project #_smartmeta_my-awesome-field{
+	width:350px;
+}
+
+body.user_project .form-table th{
+	width:150px !important;
+}
+
+body.user_project #content_ifr{
+	height:200px;
+}

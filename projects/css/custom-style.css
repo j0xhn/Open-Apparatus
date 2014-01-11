@@ -1,0 +1,81 @@
+@CHARSET "ISO-8859-1";
+
+.more{
+
+	color:#ca7700;
+	font-family:Verdana,Geneva,sans-serif;
+	font-size:11px;"
+
+}
+
+.foo_con{
+
+font-family:Verdana,Geneva,sans-serif;
+font-size:11px;
+font-weight:normal;
+font-style:normal;
+color:#222222;
+width:140px;
+height:auto;
+}
+.caroufredsel_wrapper{
+	height:380px !important;
+	width:860px !important;
+}
+.caroufredsel_wrapper .project-card{
+	margin:0px 5px 15px 47px !important;
+}
+#foo1{
+	height:auto !important;
+}
+.image_carousel {
+	padding: 15px 0 15px 40px;
+	position: relative;
+}
+
+a.prev, a.next {
+	border-radius:5px;
+	width: 45px;
+	height: 50px;
+	display: block;
+	position: absolute;
+	top: 40%;
+}
+
+
+#foo_content{
+
+	padding: 9px;
+	margin: 7px;
+	display: block;
+	float: left;
+	height:auto;
+
+	width:150px;
+	min-height:150px;
+	max-height:280px;
+
+
+}
+
+
+a.prev {			left: 0px;
+					background:url(../img/left.png);
+					background-color:#333;
+					background-repeat:no-repeat;
+					background-position:center;
+					}
+a.next {			right: 0px;
+					background:url(../img/right.png);
+					background-color:#333;
+					background-repeat:no-repeat;
+					background-position:center;
+					}
+
+a.prev span, a.next span {
+	display: none;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}

@@ -1,0 +1,17 @@
+Hi %s
+
+Oh yeah! %s has just commited to funding your project - %s.
+
+With this contribution, you've raised %s (%u%%) of your %s target. You still have %s to go.
+
+Funder ID:		%u
+Name:			%s
+Email:			%s
+Amount:			%s
+Preapproval Key:	%s
+Reward:			%s
+Message:		%s
+
+Dont forget to email them and say thanks. That'll encourage them to share your project with their friends and followers.
+
+Cheers!

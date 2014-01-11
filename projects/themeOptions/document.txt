@@ -1,0 +1,52 @@
+1  ORIZON // HOT NEWS section
+
+1  Delete read more option, should be always yes                                Done
+2  Delete ORIZON // HOT NEWS section Heading - Hide option, should be           Done
+3  Delete ORIZON // HOT NEWS section Description - Hide, should be always yes   Done
+
+
+Query  : - Delete ORIZON // HOT NEWS section description limit, character limit
+   should be fixed so the user cannot over-extend the container and break the
+   design  (i think it is a best option for theme you can also increase or decrease charactewr limits according to you .you can also deside that how many characters are fit for design)
+   
+
+
+
+
+
+
+2 General news section
+
+1    Delete read more   Done
+2    Delete: GENERAL NEWS section Heading - Hide, GENERAL NEWS section date  Done 
+3     H ide, GENERAL NEWS section Description - Hide, should be always yes   Done
+
+4     Delete GENERAL NEWS section description limit, should have a fixed
+   character
+(i think it is a best option for theme you can also increase or decrease charactewr limits according to you .you cac also deside that how many characters are fit for design)
+------------------------------------------------------------------------
+3    Sliders
+
+1    Remove carousel(carousel) slide show - this should be in the front page
+   tab, with the other HOT NEWS options    Done
+   
+   
+2  Delete slider description limit , character limit should be fixed
+   (i think it is a best option for theme you can also increase or decrease charactewr limits according to you .you cac also deside that how many characters are fit for design)
+------------------------------------------------------------------------
+   
+   --------------------------------------------------------------------------------
+   
+ 1   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   

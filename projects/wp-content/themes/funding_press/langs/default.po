@@ -1,0 +1,2272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: funding\n"
+"POT-Creation-Date: 2013-10-02 23:59+0100\n"
+"PO-Revision-Date: 2013-10-02 23:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../funding_press/404.php:5 ../funding_press/funding/404.php:5
+msgid "Page not found!"
+msgstr ""
+
+#: ../funding_press/404.php:14 ../funding_press/funding/404.php:14
+msgid "Page not found, sorry"
+msgstr ""
+
+#: ../funding_press/archive.php:45 ../funding_press/category.php:40
+#: ../funding_press/search.php:124
+msgid "By"
+msgstr ""
+
+#: ../funding_press/archive.php:45
+msgid "View all posts by"
+msgstr ""
+
+#: ../funding_press/archive.php:46 ../funding_press/author.php:237
+#: ../funding_press/category.php:51 ../funding_press/search.php:125
+#: ../funding_press/tag.php:46
+msgid "Read more"
+msgstr ""
+
+#: ../funding_press/author.php:25
+msgid "Member: "
+msgstr ""
+
+#: ../funding_press/author.php:41 ../funding_press/tmp-projects.php:46
+msgid "Name:"
+msgstr ""
+
+#: ../funding_press/author.php:47 ../funding_press/tmp-projects.php:52
+msgid "Country:"
+msgstr ""
+
+#: ../funding_press/author.php:52 ../funding_press/tmp-projects.php:57
+msgid "Member Since:"
+msgstr ""
+
+#: ../funding_press/author.php:58 ../funding_press/tmp-projects.php:63
+msgid "Website:"
+msgstr ""
+
+#: ../funding_press/author.php:77 ../funding_press/functions.php:1365
+#: ../funding_press/tmp-all-projects.php:9
+#: ../funding_press/funding/funding.php:70
+#: ../funding_press/funding/funding.php:73
+#: ../funding_press/pagebuilder/blocks/projects-block.php:10
+msgid "Projects"
+msgstr ""
+
+#: ../funding_press/author.php:138 ../funding_press/category.php:159
+#: ../funding_press/functions.php:158 ../funding_press/functions.php:407
+#: ../funding_press/functions.php:508 ../funding_press/functions.php:612
+#: ../funding_press/functions.php:731 ../funding_press/functions.php:861
+#: ../funding_press/search.php:72 ../funding_press/tmp-projects.php:277
+#: ../funding_press/funding/tpl/f-fund-project.php:130
+#: ../funding_press/pagebuilder/blocks/projects-block.php:148
+#: ../funding_press/pagebuilder/blocks/projects-block.php:285
+#: ../funding_press/pagebuilder/blocks/projects-block.php:422
+#: ../funding_press/pagebuilder/blocks/projects-block.php:544
+msgid "Successful!"
+msgstr ""
+
+#: ../funding_press/author.php:143 ../funding_press/category.php:164
+#: ../funding_press/functions.php:160 ../funding_press/functions.php:412
+#: ../funding_press/functions.php:513 ../funding_press/functions.php:617
+#: ../funding_press/functions.php:736 ../funding_press/functions.php:866
+#: ../funding_press/search.php:77 ../funding_press/tmp-projects.php:282
+#: ../funding_press/funding/tpl/f-fund-project.php:135
+#: ../funding_press/pagebuilder/blocks/projects-block.php:153
+#: ../funding_press/pagebuilder/blocks/projects-block.php:290
+#: ../funding_press/pagebuilder/blocks/projects-block.php:427
+#: ../funding_press/pagebuilder/blocks/projects-block.php:549
+msgid "Unsuccessful!"
+msgstr ""
+
+#: ../funding_press/author.php:147 ../funding_press/category.php:168
+#: ../funding_press/functions.php:193 ../funding_press/functions.php:416
+#: ../funding_press/functions.php:517 ../funding_press/functions.php:621
+#: ../funding_press/functions.php:740 ../funding_press/functions.php:870
+#: ../funding_press/search.php:81 ../funding_press/tmp-projects.php:286
+#: ../funding_press/funding/tpl/f-fund-project.php:139
+#: ../funding_press/funding/tpl/f-project.php:124
+#: ../funding_press/funding/tpl/f-project.php:221
+#: ../funding_press/funding/tpl/f-project.php:337
+#: ../funding_press/funding/tpl/f-project.php:423
+#: ../funding_press/pagebuilder/blocks/projects-block.php:157
+#: ../funding_press/pagebuilder/blocks/projects-block.php:553
+msgid "%u%"
+msgstr ""
+
+#: ../funding_press/author.php:151 ../funding_press/category.php:172
+#: ../funding_press/functions.php:420 ../funding_press/functions.php:523
+#: ../funding_press/functions.php:627 ../funding_press/functions.php:745
+#: ../funding_press/functions.php:875 ../funding_press/search.php:85
+#: ../funding_press/tmp-projects.php:291
+#: ../funding_press/funding/tpl/f-fund-project.php:143
+#: ../funding_press/pagebuilder/blocks/projects-block.php:161
+#: ../funding_press/pagebuilder/blocks/projects-block.php:558
+#, php-format
+msgid "%u%%"
+msgstr ""
+
+#: ../funding_press/author.php:151 ../funding_press/category.php:172
+#: ../funding_press/functions.php:420 ../funding_press/functions.php:523
+#: ../funding_press/functions.php:627 ../funding_press/functions.php:745
+#: ../funding_press/functions.php:875 ../funding_press/search.php:85
+#: ../funding_press/tmp-projects.php:291
+#: ../funding_press/funding/tpl/f-fund-project.php:143
+#: ../funding_press/pagebuilder/blocks/projects-block.php:300
+#: ../funding_press/pagebuilder/blocks/projects-block.php:437
+msgid "funded"
+msgstr ""
+
+#: ../funding_press/author.php:155 ../funding_press/category.php:176
+#: ../funding_press/functions.php:424 ../funding_press/functions.php:527
+#: ../funding_press/functions.php:631 ../funding_press/functions.php:749
+#: ../funding_press/functions.php:879 ../funding_press/search.php:89
+#: ../funding_press/tmp-projects.php:295
+#: ../funding_press/funding/tpl/f-fund-project.php:147
+#: ../funding_press/pagebuilder/blocks/projects-block.php:303
+#: ../funding_press/pagebuilder/blocks/projects-block.php:440
+msgid "target"
+msgstr ""
+
+#: ../funding_press/author.php:162 ../funding_press/category.php:183
+#: ../funding_press/functions.php:129 ../funding_press/functions.php:431
+#: ../funding_press/functions.php:534 ../funding_press/functions.php:638
+#: ../funding_press/functions.php:756 ../funding_press/functions.php:886
+#: ../funding_press/search.php:96 ../funding_press/tmp-projects.php:302
+#: ../funding_press/funding/tpl/f-fund-project.php:154
+#: ../funding_press/funding/tpl/f-project.php:120
+#: ../funding_press/funding/tpl/f-project.php:217
+#: ../funding_press/funding/tpl/f-project.php:333
+#: ../funding_press/funding/tpl/f-project.php:419
+#: ../funding_press/pagebuilder/blocks/projects-block.php:172
+#: ../funding_press/pagebuilder/blocks/projects-block.php:306
+#: ../funding_press/pagebuilder/blocks/projects-block.php:443
+#: ../funding_press/pagebuilder/blocks/projects-block.php:569
+msgid "days to go"
+msgstr ""
+
+#: ../funding_press/author.php:202
+msgid "Author: "
+msgstr ""
+
+#: ../funding_press/author.php:236 ../funding_press/category.php:40
+#: ../funding_press/search.php:124 ../funding_press/single.php:42
+#: ../funding_press/tag.php:45 ../funding_press/tmp-blog.php:56
+msgid "View all posts by "
+msgstr ""
+
+#: ../funding_press/category.php:13 ../funding_press/category.php:92
+msgid "Category: "
+msgstr ""
+
+#: ../funding_press/category.php:47
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../funding_press/category.php:50
+msgid "in this post"
+msgstr ""
+
+#: ../funding_press/footer.php:16
+msgid "Back to top"
+msgstr ""
+
+#: ../funding_press/footer.php:19
+msgid "Privacy"
+msgstr ""
+
+#: ../funding_press/footer.php:20
+msgid "Terms"
+msgstr ""
+
+#: ../funding_press/functions.php:29
+msgid "My projects"
+msgstr ""
+
+#: ../funding_press/functions.php:39
+msgid "All projects"
+msgstr ""
+
+#: ../funding_press/functions.php:67
+msgid "You dont have the right permissions to access this page!"
+msgstr ""
+
+#: ../funding_press/functions.php:87
+#: ../funding_press/funding/admin/custom-columns.php:11
+msgid "Project Title"
+msgstr ""
+
+#: ../funding_press/functions.php:88
+#: ../funding_press/funding/admin/custom-columns.php:12
+msgid "Project status"
+msgstr ""
+
+#: ../funding_press/functions.php:89
+#: ../funding_press/funding/admin/custom-columns.php:13
+msgid "Progress"
+msgstr ""
+
+#: ../funding_press/functions.php:90
+#: ../funding_press/funding/admin/custom-columns.php:14
+msgid "Time Remaining"
+msgstr ""
+
+#: ../funding_press/functions.php:91
+msgid "Paypal"
+msgstr ""
+
+#: ../funding_press/functions.php:92
+#: ../funding_press/funding/admin/custom-columns.php:15
+msgid "Creator"
+msgstr ""
+
+#: ../funding_press/functions.php:94
+#: ../funding_press/funding/admin/custom-columns.php:17
+#: ../funding_press/funding/admin/custom-columns.php:35
+#: ../funding_press/funding/admin/metabox-settings.php:16
+msgid "Date"
+msgstr ""
+
+#: ../funding_press/functions.php:130
+msgid "Project expired!"
+msgstr ""
+
+#: ../funding_press/functions.php:154
+msgid "Pending!"
+msgstr ""
+
+#: ../funding_press/functions.php:156
+msgid "Draft!"
+msgstr ""
+
+#: ../funding_press/functions.php:162
+msgid "Active!"
+msgstr ""
+
+#: ../funding_press/functions.php:226
+msgid "Footer area widgets"
+msgstr ""
+
+#: ../funding_press/functions.php:228
+msgid "Widgets in this area will be shown in the footer."
+msgstr ""
+
+#: ../funding_press/functions.php:235
+msgid "Blog sidebar"
+msgstr ""
+
+#: ../funding_press/functions.php:237
+msgid "Widgets in this area will be shown in the blog sidebar."
+msgstr ""
+
+#: ../funding_press/functions.php:260
+msgid "Header Menu"
+msgstr ""
+
+#: ../funding_press/functions.php:268
+msgid "No categories"
+msgstr ""
+
+#: ../funding_press/functions.php:437 ../funding_press/functions.php:540
+#: ../funding_press/functions.php:644 ../funding_press/functions.php:763
+#: ../funding_press/pagebuilder/blocks/projects-block.php:186
+#: ../funding_press/pagebuilder/blocks/projects-block.php:320
+#: ../funding_press/pagebuilder/blocks/projects-block.php:582
+msgid "View all projects"
+msgstr ""
+
+#: ../funding_press/functions.php:927 ../funding_press/functions.php:932
+#: ../funding_press/functions.php:937 ../funding_press/functions.php:942
+#: ../funding_press/functions.php:947
+#, php-format
+msgid "<a href=\"%s\""
+msgstr ""
+
+#: ../funding_press/functions.php:985
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../funding_press/functions.php:995
+#, php-format
+msgid "Unattached <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../funding_press/functions.php:1106
+msgid "Login Successful, redirecting..."
+msgstr ""
+
+#: ../funding_press/functions.php:1118
+msgid "Login successful, updating..."
+msgstr ""
+
+#: ../funding_press/functions.php:1128 ../funding_press/functions.php:1178
+msgid "An undefined error has ocurred"
+msgstr ""
+
+#: ../funding_press/functions.php:1132
+msgid "Please supply your username and password."
+msgstr ""
+
+#: ../funding_press/functions.php:1150 ../funding_press/wp-login.php:663
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: ../funding_press/functions.php:1169
+msgid "We have sent you an email"
+msgstr ""
+
+#: ../funding_press/functions.php:1359
+#: ../funding_press/funding/tpl/f-project.php:46
+msgid "Home"
+msgstr ""
+
+#: ../funding_press/functions.php:1375
+msgid "Blog"
+msgstr ""
+
+#: ../funding_press/functions.php:1498
+msgid "Update Fields"
+msgstr ""
+
+#: ../funding_press/functions.php:1533
+msgid ""
+"\t\t\t\t\t<span class='unapproved'>Your comment is awaiting moderation.</"
+"span>\n"
+msgstr ""
+
+#: ../funding_press/functions.php:1535
+msgid "on"
+msgstr ""
+
+#: ../funding_press/functions.php:1545
+#, php-format
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: ../funding_press/functions.php:1549
+msgid "Edit"
+msgstr ""
+
+#: ../funding_press/functions.php:1550
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation.</span>\\n"
+msgstr ""
+
+#: ../funding_press/functions.php:1600
+msgid "Video url"
+msgstr ""
+
+#: ../funding_press/functions.php:1606
+msgid "Put your project embed video URL here"
+msgstr ""
+
+#: ../funding_press/functions.php:1612 ../funding_press/functions.php:1618
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:28
+msgid "Staff picks"
+msgstr ""
+
+#: ../funding_press/functions.php:1724
+#: ../funding_press/pluginactivation.php:122
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../funding_press/functions.php:1725
+#: ../funding_press/pluginactivation.php:123
+msgid "Install Plugins"
+msgstr ""
+
+#: ../funding_press/functions.php:1726
+#: ../funding_press/pluginactivation.php:124
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../funding_press/functions.php:1727
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../funding_press/functions.php:1738
+#: ../funding_press/pluginactivation.php:136
+#: ../funding_press/pluginactivation.php:389
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../funding_press/functions.php:1739
+#: ../funding_press/pluginactivation.php:137
+#: ../funding_press/pluginactivation.php:1516
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../funding_press/functions.php:1740
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../funding_press/header.php:22
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../funding_press/header.php:58
+msgid "Log out"
+msgstr ""
+
+#: ../funding_press/header.php:59
+msgid "Submit a project"
+msgstr ""
+
+#: ../funding_press/header.php:60
+msgid "My account"
+msgstr ""
+
+#: ../funding_press/header.php:63 ../funding_press/header.php:78
+msgid "Login"
+msgstr ""
+
+#: ../funding_press/header.php:64 ../funding_press/header.php:168
+#: ../funding_press/wp-login.php:451 ../funding_press/wp-login.php:510
+#: ../funding_press/wp-login.php:709
+msgid "Register"
+msgstr ""
+
+#: ../funding_press/header.php:67 ../funding_press/tmp-contact.php:135
+msgid "facebook"
+msgstr ""
+
+#: ../funding_press/header.php:68 ../funding_press/tmp-contact.php:136
+msgid "twitter"
+msgstr ""
+
+#: ../funding_press/header.php:69 ../funding_press/tmp-contact.php:137
+msgid "rss"
+msgstr ""
+
+#: ../funding_press/header.php:70 ../funding_press/tmp-contact.php:138
+msgid "google"
+msgstr ""
+
+#: ../funding_press/header.php:71 ../funding_press/tmp-contact.php:139
+msgid "skype"
+msgstr ""
+
+#: ../funding_press/header.php:99
+msgid "Log Out"
+msgstr ""
+
+#: ../funding_press/header.php:125
+msgid "Remember Me"
+msgstr ""
+
+#: ../funding_press/header.php:126
+msgid "Password Lost and Found"
+msgstr ""
+
+#: ../funding_press/header.php:126 ../funding_press/wp-login.php:565
+#: ../funding_press/wp-login.php:710 ../funding_press/wp-login.php:712
+msgid "Lost your password?"
+msgstr ""
+
+#: ../funding_press/header.php:129 ../funding_press/wp-login.php:673
+msgid "Log In"
+msgstr ""
+
+#: ../funding_press/header.php:141
+msgid "Forgotten Password"
+msgstr ""
+
+#: ../funding_press/header.php:146
+msgid "Enter username or email"
+msgstr ""
+
+#: ../funding_press/header.php:152
+msgid "Get New Password"
+msgstr ""
+
+#: ../funding_press/header.php:153
+msgid "Cancel"
+msgstr ""
+
+#: ../funding_press/header.php:175 ../funding_press/wp-login.php:544
+msgid "Register For This Site"
+msgstr ""
+
+#: ../funding_press/header.php:184 ../funding_press/wp-login.php:557
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:125
+msgid "Something went wrong."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:138
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:413
+#: ../funding_press/pluginactivation.php:1690
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:437
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:576
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:892
+msgid "External Link"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:897
+msgid "Private Repository"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:900
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:904
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:906
+msgid "Required"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:906
+msgid "Recommended"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:908
+msgid "Not Installed"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:910
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1054
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1067
+msgid "Plugin"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1068
+msgid "Source"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1069
+msgid "Type"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1070
+#: ../funding_press/funding/admin/custom-columns.php:53
+msgid "Status"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1084
+msgid "Install"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1085
+msgid "Activate"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1502
+msgid "Install package not available."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1503
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1504
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1505
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1506
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1507
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1515
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1606
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1607
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1607
+#: ../funding_press/pluginactivation.php:1616
+msgid "Show Details"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1607
+#: ../funding_press/pluginactivation.php:1616
+msgid "Hide Details"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1608
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1609
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1613
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1614
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1615
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1616
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1617
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../funding_press/pluginactivation.php:1618
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../funding_press/search.php:4
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../funding_press/search.php:162
+msgid "Nothing Found"
+msgstr ""
+
+#: ../funding_press/search.php:166
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:7
+#: ../funding_press/short-comments.php:7
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:11
+#: ../funding_press/short-comments.php:11
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:32
+#: ../funding_press/short-comments.php:32
+#, php-format
+msgid "<span>%d</span> Comments"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:32
+#: ../funding_press/short-comments.php:32
+msgid "<span>One</span> Comment"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:61
+#: ../funding_press/short-comments.php:61
+#, php-format
+msgid "<span>%d</span> Trackbacks"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:61
+#: ../funding_press/short-comments.php:61
+msgid "<span>One</span> Trackback"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:77
+#: ../funding_press/short-comments.php:77
+msgid "Leave a comment"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:77
+#: ../funding_press/short-comments.php:77
+#, php-format
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:82
+#: ../funding_press/short-comments.php:82
+#, php-format
+msgid ""
+"You must be <a href=\"%s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:96
+#: ../funding_press/short-comments.php:96
+msgid "Your email is <em>never</em> published nor shared."
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:96
+#: ../funding_press/short-comments.php:96
+msgid "Required fields are marked <span class=\"required\">*</span>"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:99
+#: ../funding_press/short-comments.php:99
+#: ../funding_press/funding/admin/custom-columns.php:48
+msgid "Name"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:99
+#: ../funding_press/short-comments-blog.php:104
+#: ../funding_press/short-comments.php:99
+#: ../funding_press/short-comments.php:104
+msgid "<span class=\"required\">*</span>"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:104
+#: ../funding_press/short-comments.php:104
+#: ../funding_press/funding/admin/custom-columns.php:52
+msgid "Email"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:109
+#: ../funding_press/short-comments.php:109
+#: ../funding_press/tmp-projects.php:159 ../funding_press/user.php:83
+msgid "Website"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:116
+#: ../funding_press/short-comments.php:118
+#: ../funding_press/funding/tpl/f-fund-project.php:174
+msgid "Comment"
+msgstr ""
+
+#: ../funding_press/short-comments-blog.php:123
+#: ../funding_press/short-comments.php:125
+msgid "Post"
+msgstr ""
+
+#: ../funding_press/tag.php:11
+msgid "Tag: "
+msgstr ""
+
+#: ../funding_press/tag.php:45 ../funding_press/tmp-blog.php:56
+msgid "By "
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:20
+msgid "Please enter your name."
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:27
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:30
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:37
+msgid "Please enter a message."
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:53
+msgid "[PHP Snippets] From "
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:65
+msgid "Contact form"
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:69
+msgid "Thanks, your email was sent successfully"
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:74
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:112
+msgid "Send email"
+msgstr ""
+
+#: ../funding_press/tmp-contact.php:133
+msgid "Social Network"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:21
+msgid "To change your user image, please use the same email as your Gravatar"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:27
+msgid "My profile"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:28
+msgid "Edit profile"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:29
+msgid "Paypal details"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:97 ../funding_press/user.php:24
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:104 ../funding_press/user.php:32
+msgid "The Email you entered is not valid.  please try again."
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:106 ../funding_press/user.php:34
+msgid "This email is already used by another user.  try a different one."
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:137 ../funding_press/user.php:65
+msgid "You must be logged in to edit your profile."
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:146 ../funding_press/user.php:71
+msgid "First Name"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:150 ../funding_press/user.php:75
+msgid "Last Name"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:154 ../funding_press/user.php:79
+msgid "E-mail *"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:163 ../funding_press/user.php:87
+msgid "Password *"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:167 ../funding_press/user.php:91
+msgid "Repeat Password *"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:171 ../funding_press/user.php:95
+msgid "Biographical Information"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:182
+#: ../funding_press/themeOptions/admin/country/usercountry.php:266
+msgid "- Select -"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:192 ../funding_press/user.php:105
+msgid "Update"
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:203 ../funding_press/user.php:116
+msgid "Sorry, no page matched your criteria."
+msgstr ""
+
+#: ../funding_press/tmp-projects.php:307
+msgid "Edit project"
+msgstr ""
+
+#: ../funding_press/wp-login.php:78
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../funding_press/wp-login.php:79
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../funding_press/wp-login.php:143
+#, php-format
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: ../funding_press/wp-login.php:189
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: ../funding_press/wp-login.php:193
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: ../funding_press/wp-login.php:205
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: ../funding_press/wp-login.php:219
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: ../funding_press/wp-login.php:231
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../funding_press/wp-login.php:233
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../funding_press/wp-login.php:234
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../funding_press/wp-login.php:235
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../funding_press/wp-login.php:245
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: ../funding_press/wp-login.php:251
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: ../funding_press/wp-login.php:251
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr ""
+
+#: ../funding_press/wp-login.php:271 ../funding_press/wp-login.php:274
+#: ../funding_press/wp-login.php:279
+msgid "Invalid key"
+msgstr ""
+
+#: ../funding_press/wp-login.php:313
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: ../funding_press/wp-login.php:315
+msgid ""
+"<strong>ERROR</strong>: This username is invalid because it uses illegal "
+"characters. Please enter a valid username."
+msgstr ""
+
+#: ../funding_press/wp-login.php:318
+msgid ""
+"<strong>ERROR</strong>: This username is already registered. Please choose "
+"another one."
+msgstr ""
+
+#: ../funding_press/wp-login.php:323
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: ../funding_press/wp-login.php:325
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: ../funding_press/wp-login.php:328
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+
+#: ../funding_press/wp-login.php:341
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a "
+"href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: ../funding_press/wp-login.php:428
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: ../funding_press/wp-login.php:432
+msgid "Lost Password"
+msgstr ""
+
+#: ../funding_press/wp-login.php:432
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: ../funding_press/wp-login.php:440
+msgid "Username or E-mail:"
+msgstr ""
+
+#: ../funding_press/wp-login.php:449 ../funding_press/wp-login.php:477
+#: ../funding_press/wp-login.php:508 ../funding_press/wp-login.php:564
+msgid "Log in"
+msgstr ""
+
+#: ../funding_press/wp-login.php:471
+msgid "The passwords do not match."
+msgstr ""
+
+#: ../funding_press/wp-login.php:477
+msgid "Password Reset"
+msgstr ""
+
+#: ../funding_press/wp-login.php:477
+msgid "Your password has been reset."
+msgstr ""
+
+#: ../funding_press/wp-login.php:485
+msgid "Reset Password"
+msgstr ""
+
+#: ../funding_press/wp-login.php:485
+msgid "Enter your new password below."
+msgstr ""
+
+#: ../funding_press/wp-login.php:492
+msgid "New password"
+msgstr ""
+
+#: ../funding_press/wp-login.php:496
+msgid "Confirm new password"
+msgstr ""
+
+#: ../funding_press/wp-login.php:500
+msgid "Strength indicator"
+msgstr ""
+
+#: ../funding_press/wp-login.php:501
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: ../funding_press/wp-login.php:544
+msgid "Registration Form"
+msgstr ""
+
+#: ../funding_press/wp-login.php:549 ../funding_press/wp-login.php:682
+msgid "Username"
+msgstr ""
+
+#: ../funding_press/wp-login.php:553
+msgid "E-mail"
+msgstr ""
+
+#: ../funding_press/wp-login.php:614
+msgid "You have logged in successfully."
+msgstr ""
+
+#: ../funding_press/wp-login.php:651
+msgid ""
+"<strong>ERROR</strong>: Cookies are blocked or not supported by your "
+"browser. You must <a href='http://www.google.com/cookies.html'>enable "
+"cookies</a> to use WordPress."
+msgstr ""
+
+#: ../funding_press/wp-login.php:655
+msgid "You are now logged out."
+msgstr ""
+
+#: ../funding_press/wp-login.php:657
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: ../funding_press/wp-login.php:659
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: ../funding_press/wp-login.php:661
+msgid "Check your e-mail for your new password."
+msgstr ""
+
+#: ../funding_press/wp-login.php:665
+msgid "Your session has expired. Please log-in again."
+msgstr ""
+
+#: ../funding_press/wp-login.php:667
+msgid ""
+"<strong>You have successfully updated WordPress!</strong> Please log back in "
+"to experience the awesomeness."
+msgstr ""
+
+#: ../funding_press/wp-login.php:686
+msgid "Password"
+msgstr ""
+
+#: ../funding_press/funding/admin.php:19
+#: ../funding_press/funding/admin/page-settings.php:6
+#: ../funding_press/funding/admin/page-settings.php:79
+msgid "Funding Settings"
+msgstr ""
+
+#: ../funding_press/funding/admin.php:168
+msgid "Rewards"
+msgstr ""
+
+#: ../funding_press/funding/admin.php:175
+msgid "Project Settings"
+msgstr ""
+
+#: ../funding_press/funding/admin.php:183
+msgid "Funders"
+msgstr ""
+
+#: ../funding_press/funding/admin.php:221
+msgid "Unlimited"
+msgstr ""
+
+#: ../funding_press/funding/admin.php:283
+msgid "Settings saved."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:74
+#: ../funding_press/funding/admin/custom-columns.php:30
+#: ../funding_press/funding/admin/custom-columns.php:51
+msgid "Project"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:75
+msgid "Create Project"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:76
+#: ../funding_press/funding/funding.php:78
+msgid "Edit Project"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:77
+msgid "Add New Project"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:79
+msgid "New Project"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:80
+msgid "View Project"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:81
+msgid "Search Projects"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:82
+msgid "No Projects Found"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:84
+msgid "A fundable project."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:103
+#: ../funding_press/funding/admin/custom-columns.php:50
+msgid "Reward"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:104
+#: ../funding_press/funding/funding.php:110
+msgid "A reward for funding a project."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:109
+#: ../funding_press/funding/admin/custom-columns.php:152
+msgid "Funder"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:176
+msgid "Please insert your name."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:179
+msgid "Please insert your e-mail."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:182
+#: ../funding_press/funding/funding.php:188
+msgid "Please choose a valid reward."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:185
+msgid "Please choose an amount."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:191
+msgid "You need to fund more for this reward."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:195
+msgid "The reward you chose is no longer available."
+msgstr ""
+
+#: ../funding_press/funding/funding.php:318
+#, php-format
+msgid "New Funder For %s"
+msgstr ""
+
+#: ../funding_press/funding/funding.php:345
+#, php-format
+msgid "Thanks For Funding %s"
+msgstr ""
+
+#: ../funding_press/funding/paypal.php:66
+#, php-format
+msgid "Funding '%s' from %s for the reward '%s' if we reach our target."
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:29
+msgid "Reward Title"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:31
+msgid "Min Contribution"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:32
+msgid "Available"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:33
+msgid "Author"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:49
+#: ../funding_press/funding/admin/metabox-settings.php:11
+msgid "Amount"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:73
+msgid "Unknown"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:77
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:142
+msgid "Awaiting Confirmation"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:149
+msgid "Refresh"
+msgstr ""
+
+#: ../funding_press/funding/admin/custom-columns.php:152
+msgid "status updated."
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-funders.php:12
+#: ../funding_press/funding/tpl/f-project.php:298
+#: ../funding_press/funding/tpl/f-project.php:301
+#, php-format
+msgid "Email %s"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-funders.php:33
+msgid "Download"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-funders.php:34
+msgid "You can collect funding after you've reached your target"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:6
+#, php-format
+msgid "%s available @ %s%s each"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:16
+msgid "Title"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:20
+msgid "Description"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:24
+msgid "Minimum Amount"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:29
+msgid "Number Available"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:34
+msgid "cancel"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-reward.php:34
+msgid "delete"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-settings.php:3
+msgid "Currency"
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-settings.php:13
+msgid "The minimum amount you need."
+msgstr ""
+
+#: ../funding_press/funding/admin/metabox-settings.php:18
+msgid "Date that funding ends."
+msgstr ""
+
+#: ../funding_press/funding/admin/modal-donate.php:2
+msgid "Error!"
+msgstr ""
+
+#: ../funding_press/funding/admin/modal-donate.php:7
+#: ../funding_press/funding/admin/modal-donate.php:21
+msgid "Ok"
+msgstr ""
+
+#: ../funding_press/funding/admin/modal-donate.php:16
+msgid "Congratulations!"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:9
+#: ../funding_press/funding/admin/page-settings.php:82
+msgid "Fundit Settings"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:13
+#: ../funding_press/funding/admin/page-settings.php:86
+msgid "PayPal Email Address"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:17
+#: ../funding_press/funding/admin/page-settings.php:94
+msgid "The PayPal email address you want to be paid into."
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:29
+msgid "Mode"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:32
+msgid "Sandbox"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:33
+msgid "Production"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:39
+msgid "PayPal Application ID"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:46
+msgid "PayPal API Username"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:53
+msgid "PayPal API Password"
+msgstr ""
+
+#: ../funding_press/funding/admin/page-settings.php:60
+msgid "PayPal API Signature"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:14
+msgid "Thank you for helping out!"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:28
+msgid "How much would you like to contribute?"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:37
+msgid "Choose Your Reward"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:57
+#, php-format
+msgid "Pledge %s%s or more"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:68
+msgid "Who Are You?"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:70
+msgid "Your Name"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:73
+msgid "Your Email"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:80
+msgid "You are helping fund:"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:163
+msgid "Important"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:175
+msgid ""
+"If you selected a reward that involve received an item, please write the "
+"address in the box bellow. You can also use it if you want to tell something "
+"to the creator of the project."
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-fund-project.php:187
+msgid "Commit To Funding"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:13
+msgid "by"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:23
+msgid "Thanks for committing to fund our project. We appreciate your support."
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:24
+#, php-format
+msgid "We'll contact you when we reach our target of %s%s."
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:36
+msgid "Yay! This project has been successfully funded!"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:41
+msgid "Unfortunately this project hasn't been funded on time!"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:48
+msgid "Updates"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:50
+msgid "Backers"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:51
+msgid "Comments"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:114
+#: ../funding_press/funding/tpl/f-project.php:211
+#: ../funding_press/funding/tpl/f-project.php:413
+msgid "raised of"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:125
+#: ../funding_press/funding/tpl/f-project.php:222
+#: ../funding_press/funding/tpl/f-project.php:338
+#: ../funding_press/funding/tpl/f-project.php:424
+msgid "This project will only be funded if at least"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:125
+#: ../funding_press/funding/tpl/f-project.php:222
+#: ../funding_press/funding/tpl/f-project.php:338
+#: ../funding_press/funding/tpl/f-project.php:424
+msgid "is raised by"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:128
+#: ../funding_press/funding/tpl/f-project.php:225
+#: ../funding_press/funding/tpl/f-project.php:341
+#: ../funding_press/funding/tpl/f-project.php:427
+msgid "Fund This Project"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:131
+#: ../funding_press/funding/tpl/f-project.php:228
+#: ../funding_press/funding/tpl/f-project.php:344
+#: ../funding_press/funding/tpl/f-project.php:430
+#, php-format
+msgid "%s minimum"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:141
+#: ../funding_press/funding/tpl/f-project.php:238
+#: ../funding_press/funding/tpl/f-project.php:354
+#: ../funding_press/funding/tpl/f-project.php:440
+msgid "Project sponsor"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:165
+#: ../funding_press/funding/tpl/f-project.php:262
+#: ../funding_press/funding/tpl/f-project.php:378
+#: ../funding_press/funding/tpl/f-project.php:464
+#, php-format
+msgid "%d of %d available"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:191
+msgid "Last update:"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:191
+msgid "at"
+msgstr ""
+
+#: ../funding_press/funding/tpl/f-project.php:269
+#: ../funding_press/funding/tpl/f-project.php:381
+#: ../funding_press/funding/tpl/f-project.php:385
+#: ../funding_press/funding/tpl/f-project.php:467
+#: ../funding_press/funding/tpl/f-project.php:471
+#, php-format
+msgid "Fund %s%s or more"
+msgstr ""
+
+#: ../funding_press/metaboxes/init.php:612
+msgid "Please Try Again"
+msgstr ""
+
+#: ../funding_press/metaboxes/init.php:629
+msgid "Remove Embed"
+msgstr ""
+
+#: ../funding_press/metaboxes/init.php:635
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:10
+msgid "Alerts"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:22
+msgid "note"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:29
+msgid "Standard"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:30
+msgid "Info"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:31
+msgid "Notification"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:32
+msgid "Warning"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:33
+msgid "Tips"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:40
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:45
+#: ../funding_press/pagebuilder/blocks/projects-block.php:42
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+#: ../funding_press/pagebuilder/blocks/textcolumn-block.php:1
+#: ../funding_press/pagebuilder/blocks/widgets-block.php:1
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Title (optional)"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:46
+msgid "Alert Text (required)"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:52
+msgid "Alert Type"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/alert-block.php:58
+msgid "Additional inline css styling (optional)"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:12
+msgid "Clear"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:23
+msgid "none"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:30
+msgid "None"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:31
+msgid "Single"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:32
+msgid "Double"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:33
+msgid "Use Image"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:43
+msgid ""
+"Use this block to clear the floats between two or more separate blocks "
+"vertically."
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:47
+msgid "Pick a horizontal line"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:53
+msgid "Height (optional)"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/clear-block.php:59
+msgid "Pick a line color"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/column-block.php:9
+msgid "Column"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/column-block.php:20
+#: ../funding_press/pagebuilder/blocks/column-block.php:41
+msgid "Drag block items into this column box"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/column-block.php:79
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Delete"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/highlight-block.php:1
+msgid "Highlight text"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/highlight-block.php:1
+msgid "Highlight button text"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/highlight-block.php:1
+msgid "Highlight button link"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/highlight-block.php:1
+#: ../funding_press/pagebuilder/blocks/textcolumn-block.php:1
+msgid "Remove bottom spacing &nbsp;&nbsp;"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:12
+msgid "Project highlight"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:27
+msgid "Latest projects"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:29
+msgid "Latest successful projects"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:30
+msgid "First ending projects"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:39
+#: ../funding_press/pagebuilder/blocks/projects-block.php:36
+msgid ""
+"Exclude categories (select IDs of categories that you want to exclude, comma "
+"separated.)"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/latest-categories-block.php:51
+#: ../funding_press/pagebuilder/blocks/projects-block.php:48
+msgid "Pick display option"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:25
+msgid "Static projects"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:26
+msgid "Slider projects"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:27
+msgid "Show both"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:54
+msgid "Insert number of slide posts"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:60
+msgid "Insert number of static posts"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:318
+#: ../funding_press/pagebuilder/blocks/projects-block.php:455
+msgid "prev"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/projects-block.php:319
+#: ../funding_press/pagebuilder/blocks/projects-block.php:456
+msgid "next"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Tabs &amp; Toggles"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Add New"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Tabs style"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Tabs position"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Open / Close"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Tab Title"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/tabs-block.php:1
+msgid "Tab Content"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/textcolumn-block.php:1
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Content"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/textcolumn-block.php:1
+msgid "Boxed &nbsp;&nbsp;"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/widgets-block.php:1
+msgid "Widgets"
+msgstr ""
+
+#: ../funding_press/pagebuilder/blocks/widgets-block.php:1
+msgid "Choose widget area"
+msgstr ""
+
+#: ../funding_press/pagebuilder/classes/class-page-builder.php:1
+msgid "Page Builder"
+msgstr ""
+
+#: ../funding_press/pagebuilder/classes/class-page-builder.php:1
+msgid "page_builder"
+msgstr ""
+
+#: ../funding_press/pagebuilder/classes/class-page-builder.php:1
+msgid "Please select your template first!"
+msgstr ""
+
+#: ../funding_press/pagebuilder/classes/class-page-builder.php:1
+#, php-format
+msgid "You don't have any template yet. Let's %s create %s one!"
+msgstr ""
+
+#: ../funding_press/pagebuilder/classes/class-page-builder.php:1
+msgid "Choose Your Page Template"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Enter your text slogan below"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Slider Speed"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Address"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Coordinates (optional) e.g. '3.82497,103.32390'"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Map height, in pixels."
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Number of Columns"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Maximum number of items"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Choose sidebar/widget area"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid "Drag block items into this box"
+msgstr ""
+
+#: ../funding_press/pagebuilder/functions/pb_blocks.php:1
+msgid ""
+"This block has no editable attributes. You can use it to clear the floats "
+"between two or more separate blocks vertically."
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:17
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:50
+#: ../funding_press/pagebuilder/view/view-settings-page.php:66
+msgid "The "
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:50
+msgid " page template has been successfully created"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:57
+msgid "Sorry, the operation was unsuccessful for the following reason(s): "
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:66
+msgid " page template has been updated"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:74
+msgid "The template has been successfully deleted"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:90
+msgid "Available Blocks"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:90
+msgid "Deleting"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:151
+msgid "Template Name"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:158
+msgid "Create Template"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:158
+#: ../funding_press/pagebuilder/view/view-settings-page.php:209
+msgid "Save Template"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:171
+msgid "Delete Template"
+msgstr ""
+
+#: ../funding_press/pagebuilder/view/view-settings-page.php:193
+msgid ""
+"To create a custom page template, give it a name above and click Create "
+"Template. Then choose blocks like text, widgets or tabs &amp; toggles from "
+"the left column to add to this template.\n"
+"\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\tYou can drag and drop the blocks to put them in the order "
+"you want. Click on the small arrow at the corner of each block to reveal "
+"additional configuration options. You can also resize each block by clicking "
+"on either side of the block (Note that some blocks are not resizable)\n"
+"\t\t\t\t\t\t\t\t\t<br/><br/>\n"
+"\t\t\t\t\t\t\t\t\tWhen you have finished building your custom page template, "
+"make sure you click the Save Template button."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:54
+msgid "General  Settings"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:59
+msgid "Upload Your Logo"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:60
+msgid ""
+"Upload your logo. I recommend keeping it within reasonable size. Max 150px "
+"and minimum height of 90px but not more than 120px."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:65
+msgid "Upload Your Favicon"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:66
+msgid "Upload your Favicon. I recommend keeping it within reasonable size. "
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:71
+msgid "Blog settings"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:74
+msgid "Blog category"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:75
+msgid "Insert ID of blog categories, comma separated."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:80
+msgid "Blog number of posts"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:81
+msgid ""
+"Insert number of posts that you want to show on blog, category and author "
+"pages."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:86
+msgid "All projects page settings"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:89
+msgid "Number of projects per page"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:90
+msgid "Insert number of projects that you want to show on all projects page."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:96
+msgid "Colours"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:100
+msgid "Primary Color"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:101
+msgid "The primary color for the site."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:106
+msgid "Button colors"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:112
+msgid "Button color"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:113
+msgid "Button color <a class='button-medium'  >Example</a>."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:120
+#: ../funding_press/themeOptions/options.php:121
+msgid "Button hover color"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:129
+msgid "Button border color"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:130
+msgid "Color for button border <a class='button-medium'  >Example</a>."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:137
+msgid "Footer"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:140
+msgid "Copyright"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:141
+msgid "Enter your copyright text."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:143
+msgid "Made by Skywarrior Themes."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:148
+msgid "Copyright year"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:149
+msgid "Enter your copyright year."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:154
+msgid "Privacy link"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:155
+msgid "Enter your privacy link. Please include http://"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:160
+msgid "Terms link"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:161
+msgid "Enter your terms link. Please include http://"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:168
+msgid "Contact"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:172
+msgid "Enter admin email address "
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:173
+msgid " Enter your email address."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:178
+msgid "Enter sidebar title "
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:179
+msgid " Enter title for sidebar for contact page."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:183
+msgid "Enter sidebar content "
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:184
+msgid " Enter content for sidebar for contact page."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:197
+msgid "Social Media"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:209
+msgid "Enable Twitter"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:210
+msgid "Show or hide the Twitter icon that shows on the header section."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:215
+msgid "Twitter Link"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:216
+msgid "Paste your twitter link here."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:221
+msgid "Enable Facebook"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:222
+msgid "Show or hide the Facebook icon that shows on the header section."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:227
+msgid "Facebook Link"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:228
+msgid "Paste your facebook link here."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:233
+msgid "Enable Google+"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:234
+msgid "Show or hide the Google+ icon that shows on the header section."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:239
+msgid "Google+ Link"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:240
+msgid "Paste your google+ link here."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:245
+msgid "Enable skype"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:246
+msgid "Show or hide the skype icon that shows on the header section."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:251
+msgid "Skype name"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:252
+msgid "Paste your skype name here."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:258
+msgid "Enable RSS"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:259
+msgid "Show or hide the RSS icon that shows on the header section."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:264
+msgid "RSS Link"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:265
+msgid "Paste your RSS link here."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:272
+msgid "Funding"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:276
+msgid "Add Text"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:277
+msgid "Enter the important text on the commit to funding page."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:281
+msgid "Enable collect fundings"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:282
+msgid "Enable users to collect fundings before project ends."
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:287
+msgid "Admin commission"
+msgstr ""
+
+#: ../funding_press/themeOptions/options.php:288
+#, php-format
+msgid ""
+"Enter admin commission(Amount is in percents. Enter amount without % sign ) "
+"for project funding "
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:39
+msgid "Over All Score"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:58
+msgid "Critera 1"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:62
+msgid "Critera 1 Score"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:81
+msgid "Critera 2"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:85
+msgid "Critera 2 Score"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:105
+msgid "Critera 3"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:109
+msgid "Critera 3 Score"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:129
+msgid "Critera 4"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:133
+msgid "Critera 4 Score"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:153
+msgid "Critera 5"
+msgstr ""
+
+#: ../funding_press/themeOptions/rating.php:157
+msgid "Critera 5 Score"
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/options-framework.php:1
+msgid "Hey there admin!"
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/options-framework.php:1
+msgid "Need help?"
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/options-framework.php:1
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/options-framework.php:1
+msgid "Default options restored."
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/options-medialibrary-uploader.php:1
+msgid "Gallery"
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/options-medialibrary-uploader.php:1
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../funding_press/themeOptions/admin/country/usercountry.php:302
+msgid "Select country"
+msgstr ""

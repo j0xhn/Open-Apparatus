@@ -1,0 +1,78 @@
+/*
+Theme Name: Fundingpress -  The Crowdfunding Wordpress theme
+Theme URI: http://www.skywarriorthemes.com/
+Author: Skywarrior themes
+Author URI: http://www.skywarriorthemes.com/
+Description: Fundingpress is a Wordpress theme that allows you to create your own crowdfunding site. Users will be able to create projects that are brought to life through the direct support of others.
+Version: 1.12
+License: Skywarrior Themes. All rights reserved.
+License URI: http://themeforest.net/user/Skywarrior
+Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu
+Text Domain: Fundingpress
+*/
+
+
+@import url('css/bootstrap.css');
+@import url('css/bootstrap-responsive.css');
+@import url('css/main.css');
+
+
+
+
+ @charset "utf-8";
+#LoginWithAjax { margin-bottom:10px; position:relative; font-size:1em; }
+#LoginWithAjax td { padding-top:7px; vertical-align:top; background-color:none; }
+
+/*Logged out CSS*/
+#LoginWithAjax .password_label, #LoginWithAjax .username_label { padding-right:10px; vertical-align:middle; }
+#LoginWithAjax_Username input[type=text] {padding: 10px; width: 300px;}
+#LoginWithAjax_Password input[type=password] {padding: 10px; width: 300px;}
+#LoginWithAjax_Loading { position:absolute; width:100%; height:100%; background:#FFFFFF url(img/loading.gif) 50% 50% no-repeat; left:0px; top:0px; opacity:0.8; filter:alpha(opacity=80)}
+
+#LoginWithAjax_Status.invalid, #LoginWithAjax_Status.confirm { text-align:left; display:block; padding:3px; margin-bottom:8px; }
+#LoginWithAjax_Status.invalid { color:#990000; background:#F0D9D9; border:1px solid #E0B4B4; width: 314px; }
+#LoginWithAjax_Status.confirm { color:#009900; background:#D8FFB0; border:1px solid #AAFF71; width: 314px; }
+
+/*Logged In CSS*/
+#LoginWithAjax_Avatar { width:60px; padding-right:10px; }
+#lwa_rememberme{ float:left; margin-right:5px;}
+#LoginWithAjax_SubmitButton label{color:#999; float:left; font-size:10px;}
+#LoginWithAjax_Links_Remember{float:right;}
+/*Forgotten password*/
+#LoginWithAjax_Remember { margin-top:20px; display:none; }
+#LoginWithAjax_Remember p { padding: 0px 0px 3px 0px }
+#LoginWithAjax_Remember .forgot-pass-email input { width:290px; color:#666; }
+
+/*Registration*/
+#LoginWithAjax #LoginWithAjax_Register { margin-top:10px; display:none; }
+#LoginWithAjax_Register_Status.invalid, #LoginWithAjax_Register_Status.confirm { text-align:left; display:block; padding:3px; margin-bottom:8px; }
+#LoginWithAjax_Register_Status.invalid { color:#990000; background:#F0D9D9; border:1px solid #E0B4B4; }
+#LoginWithAjax_Register_Status.confirm { color:#009900; background:#D8FFB0; border:1px solid #AAFF71; }
+#LoginWithAjax_Register input[type=text] {padding: 10px; width: 300px;}
+
+/*Default Template*/
+#LoginWithAjax_Register.default h4 { font-size:16px; margin:0px; padding:0px; }
+#LoginWithAjax_Register form { overflow:auto;}
+#LoginWithAjax_Register.default .close { background:url(close.png) 0px 0px no-repeat  !important; position:absolute; right:-15px; top:-15px; cursor:pointer; height:35px; width:35px; border:none; padding:0px; margin:0px; }
+#LoginWithAjax_Register.default #wp-submit { display:block; clear:both; }
+
+/*ie7-friendly*/
+#LoginWithAjax.ie7-friendly div { padding-top:7px; vertical-align:top; background-color:none; }
+#LoginWithAjax.ie7-friendly #LoginWithAjax_Register { margin-top:5px; display:none; }
+#LoginWithAjax.ie7-friendly #LoginWithAjax_Register p { padding: 0px 0px 3px 0px }
+
+/*inline-registration*/
+#LoginWithAjax.inline-registration #LoginWithAjax_Register { margin-top:5px; display:none; }
+#LoginWithAjax.inline-registration #LoginWithAjax_Register p { padding: 0px 0px 3px 0px }
+
+/*OpenID specific*/
+#LoginWithAjax_Register hr { display:block; }
+#LoginWithAjax_Register #openid_identifier { width:auto; }
+
+/*Modal Template*/
+#LoginWithAjax_Modal { background-color:#fff; color:#333;  width:350px; padding:15px; text-align:left;  border:2px solid #333; opacity:0.8; -moz-border-radius:6px; -webkit-border-radius:6px; -moz-box-shadow: 0 0 50px #ccc; -webkit-box-shadow: 0 0 50px #ccc; }
+#LoginWithAjax_Modal h4 { font-size:16px; margin:0px; padding:0px; }
+#LoginWithAjax_Modal .close { background:url(default/close.png) 0px 0px no-repeat  !important; position:absolute; right:-15px; top:-15px; cursor:pointer; height:35px; width:35px; border:none; padding:0px; margin:0px; }
+#LoginWithAjax_Modal #wp-submit { display:block; clear:both; }
+
+.sticky{}

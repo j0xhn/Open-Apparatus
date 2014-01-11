@@ -1,0 +1,19 @@
+Hi %s
+
+Thanks for funding our project - %s. You've helped us reach %u%% of our %s target with %s to go. For your records, here are your details:
+
+Funder ID:		%u
+Name:			%s
+Email:			%s
+Amount:			%s
+Preapproval Key:	%s
+Reward:			%s
+Message:		%s
+
+If we reach our target, we'll contact you with details about your reward. Please share this project with your friends and followers. We need your help to reach our target.
+
+%s
+
+Thanks,
+%s
+%s

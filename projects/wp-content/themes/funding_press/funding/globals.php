@@ -1,0 +1,51 @@
+<?php
+
+global $f_currencies, $f_currency_signs;
+
+$f_currencies = array(
+	"AUD" => "Australian Dollar",
+	"CAD" => "Canadian Dollar",
+	"CZK" => "Czech Koruna",
+	"DKK" => "Danish Krone",
+	"EUR" => "Euro",
+	"HKD" => "Hong Kong Dollar",
+	"HUF" => "Hungarian Forint",
+	"ILS" => "Israeli New Sheqel",
+	"JPY" => "Japanese Yen",
+	"MXN" => "Mexican Peso",
+	"NOK" => "Norwegian Krone",
+	"NZD" => "New Zealand Dollar",
+	"PHP" => "Philippine Peso",
+	"PLN" => "Polish Zloty",
+	"GBP" => "Pound Sterling",
+	"SGD" => "Singapore Dollar",
+	"SEK" => "Swedish Krona",
+	"CHF" => "Swiss Franc",
+	"TWD" => "Taiwan New Dollar",
+	"THB" => "Thai Baht",
+	"USD" => "U.S. Dollar",
+);
+
+$f_currency_signs = array(
+	"AUD" => "$",
+	"CAD" => "$",
+	"CZK" => "Kč",
+	"DKK" => "kr",
+	"EUR" => "€",
+	"HKD" => "$",
+	"HUF" => "Ft",
+	"ILS" => "₪",
+	"JPY" => "¥",
+	"MXN" => "$",
+	"NOK" => "kr",
+	"NZD" => "$",
+	"PHP" => "₱",
+	"PLN" => "zł",
+	"GBP" => "£",
+	"SGD" => "$",
+	"SEK" => "kr",
+	"CHF" => "Fr.",
+	"TWD" => "$",
+	"THB" => "฿",
+	"USD" => "$",
+);
