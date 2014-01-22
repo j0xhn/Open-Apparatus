@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Funding Press Child
+ Theme URI:    http://projects.openapparatus.com
+ Description:  Funding Press Child Theme
+ Author:       John D. Storey
+ Author URI:   http://www.johndangerstorey.com
+ Template:     funding_press
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fourteen-child
+*/
+
+@import url("../funding_press/css/bootstrap.css");
+@import url("../funding_press/css/bootstrap.min.css");
+@import url("../funding_press/css/main.css");
+@import url("../funding_press/css/bootstrap-responsive.css");
+@import url("../funding_press/css/bootstrap-responsive.min.css");
+@import url("../funding_press/css/admin.css");
+@import url("../funding_press/css/buttons.css");
+@import url("../funding_press/css/bootstrap-colorpicker.css");
+@import url("../funding_press/css/custom-style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+

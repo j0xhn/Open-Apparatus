@@ -1,5 +1,18 @@
 @CHARSET "ISO-8859-1";
 
+.breadcrumb-trail {
+display: none !important;
+}
+/* Takes away top Breakcrumb*/
+.page-title{
+	display:none !important;
+	/* background:url(../img/title_bg.jpg) repeat-x top center ; */
+	/* height:73px; */
+}
+.normal-page{
+	margin-top: 0px !important;
+}
+
 .more{
 
 	color:#ca7700;
