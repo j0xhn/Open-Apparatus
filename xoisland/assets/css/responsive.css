@@ -1,0 +1,57 @@
+/*
+
+Things to remember:
+
+1. Always use proper indentation in your css and html
+2. An "#" selector or 'id' will override a '.' selector or 'class'
+3. A '.' selector will override a native selector, like 'div'
+
+*/
+
+/********************************/
+/* Responsive *******************/
+/********************************/
+
+@media screen and (min-width: 800px) {
+	.menu{
+		display: none;
+	}
+
+	.responsiveMenu{
+	width: 100%;
+	right: 0;
+	height: 50px;
+	position: fixed;
+	background-color: #383942;
+	color: daeafd;
+	z-index: 1;
+	display: inline-block;
+	}
+
+	.navbar-fixed-top {
+	  top: 0;
+	  z-index: 1030;
+	  display: inline-block;
+	  width: 100%;
+	  right: 0;
+	  height: 30px;
+	  position: fixed;
+	  background-color: #383942;
+	  display: inline-block;
+	  opacity: .5;
+	}
+
+	.nav > li > a {
+	  position: relative;
+	  display: block;
+	  color: white;
+	  text-align: center;
+	}
+
+}
+
+
+@media screen and (min-width: 600px) {
+
+	
+}

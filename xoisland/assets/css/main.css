@@ -7,6 +7,43 @@
  * URL: http://blacktie.co
  */
 
+/* My Custom Styles */
+.responsiveMenu{
+	display: none;
+}
+
+#aboutNav {
+	height: 50px;
+	z-index: -100;
+}
+
+#packageNav {
+	height: 50px;
+}
+
+#faq {
+	padding-bottom: 35px;
+}
+
+#firstFaq {
+	padding-bottom: 0px;
+
+}
+
+.toggleThis{
+	display: none;
+}
+
+#topSpace {
+	margin-top: 50px;
+}
+
+.bottomSpace {
+	margin-bottom: 50px;
+}
+
+
+
 body {
   background-color: #f2f2f2;
     font-family: "Lato";
@@ -23,6 +60,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Raleway";
     font-weight: 300;
     color: #333;
+    padding: 0 3px;
 }
 
 
@@ -39,7 +77,6 @@ p {
 /* Links */
 a {
     color: #f85c37;
-    word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -100,18 +137,20 @@ a:after {
 }
 
 #headerwrap h1 {
-	margin-top: 130px;
-	color: white;
-	font-size: 140px;
+	margin-top: 90px;
+	color: rgb(255, 255, 255);
+	font-size: 500%;
 	font-weight: 700;
 	letter-spacing: 3px;
+	text-shadow: 1px 1px 2px grey;
 }
 
 #headerwrap h2 {
 	color: white;
-	font-size: 50px;
+	font-size: 45px;
 	font-weight: 100;
 	letter-spacing: 2px;
+	text-shadow: 1px 1px 1px grey;
 }
 
 /* Portfolio Wrap */
@@ -151,7 +190,7 @@ a:after {
 #w {
 	background: #ffffff;
 	padding-top: 35px;
-	padding-bottom: 35px;
+	padding-bottom: 50px;
 	text-align: center;
 }
 
@@ -176,11 +215,24 @@ a:after {
 }
 
 /* Dark Grey Wrap */
-#dg {
+.dg {
 	background: #e0e0e0;
 	padding-top: 70px;
 	padding-bottom: 70px;
 	text-align: center;
+}
+
+/* Green Wrap */
+#bl {
+	background: #66B5D7;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	text-align: center;
+	
+}
+
+#bl h3 {
+	color: white;
 }
 
 /* Footer Wrap */

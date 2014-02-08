@@ -151,7 +151,7 @@ button,
 input,
 select,
 textarea {
-  margin: 0;
+  margin: 0 auto;
   font-family: inherit;
   font-size: 100%;
 }
@@ -510,7 +510,7 @@ h2,
 
 h3,
 .h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 h4,
@@ -1707,7 +1707,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 .form-control {
   display: block;
-  width: 100%;
+  width: 300px;
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
@@ -3807,13 +3807,15 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 13px 0px;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
   background-color: #eeeeee;
+  height: 50px;
+  color: black;
 }
 
 .nav > li.disabled > a {
@@ -4173,6 +4175,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-fixed-top {
   top: 0;
   z-index: 1030;
+  display: none;
 }
 
 .navbar-fixed-bottom {
