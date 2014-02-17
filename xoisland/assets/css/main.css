@@ -41,7 +41,40 @@
 .bottomSpace {
 	margin-bottom: 50px;
 }
+ #members h3 {
+ 	margin-top: 30px;
+ }
 
+ #packageText {
+ 	width: 700px;
+ 	padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+ }
+
+#requestBtn {
+	display:inline-block;
+	background-color: rgb(245, 132, 122);
+	color: rgb(122, 43, 43);
+}
+.packageBtn{
+	display:inline-block;
+	background-color: #aaf0d1;
+	color: #446053;
+	margin-bottom: 50px;
+}
+
+.images {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.images a img{
+	margin: 5px 5px 5px 5px;
+}
 
 
 body {
@@ -147,7 +180,7 @@ a:after {
 
 #headerwrap h2 {
 	color: white;
-	font-size: 45px;
+	font-size: 40px;
 	font-weight: 100;
 	letter-spacing: 2px;
 	text-shadow: 1px 1px 1px grey;
@@ -207,7 +240,7 @@ a:after {
 
 /* Grey Wrap */
 
-#g {
+.g {
 	background: #f2f2f2;
 	padding-top: 35px;
 	padding-bottom: 35px;
@@ -222,11 +255,11 @@ a:after {
 	text-align: center;
 }
 
-/* Green Wrap */
+/* Blue Wrap */
 #bl {
 	background: #66B5D7;
 	padding-top: 35px;
-	padding-bottom: 35px;
+	padding-bottom: 60px;
 	text-align: center;
 	
 }
@@ -260,7 +293,7 @@ a:after {
 #c {
 	background: #222222;
 	padding-top: 15px;
-	text-align: right;
+	text-align: center;
 }
 
 #c p {

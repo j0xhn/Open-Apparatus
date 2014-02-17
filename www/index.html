@@ -15,6 +15,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.css" rel="stylesheet">
+    <link href="dist/css/main.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="examples/starter-template/starter-template.css" rel="stylesheet">
@@ -104,19 +105,22 @@
 
 <!-- Top Content-->
     <div class="jumbotron" id="members">
-  <div class="container">
+      <div class="container">
+
+
   	
-  	<div id="main-content" style="width:250px; padding-top: 50px" >
-    
-    
+  	       <div class='row' id="main-content" style="width:250px; padding-top: 50px" >
+    <div class = 'bannerPic'>
 
-    <p style="text-align:center">I've found that my favorite memories happen while helping out a friend on some awesome adventure.  So I started trying to surround myself with more passionate people and making them my friends.  The more passionate friends I have... the more awesome adventures!</p>
+  <img src = 'images/Frog_Member.jpg'>
+    </div>
+
+              <p style="text-align:center">I've found that my favorite memories happen while helping out a friend on some awesome adventure.  So I started trying to surround myself with more passionate people and making them my friends.  The more passionate friends I have... the more awesome adventures!</p>
     
+              <p style="font-size:12pt"><a href="https://www.facebook.com/johndangerstorey" onClick="_gaq.push(['_trackEvent', 'Member', 'John Storey', 'Member Section']);">John D. Storey</a><br>
 
-
-    <p style="font-size:12pt"><a href="https://www.facebook.com/johndangerstorey" onClick="_gaq.push(['_trackEvent', 'Member', 'John Storey', 'Member Section']);">John D. Storey</a><br>
-    <a href="http://www.openapparatus.com" onClick="_gaq.push(['_trackEvent', 'About Open Apparatus', 'Open Apparatus', 'Member Section']);">Open Apparatus Member</a>
-    </p>
+              <a href="http://www.openapparatus.com" onClick="_gaq.push(['_trackEvent', 'About Open Apparatus', 'Open Apparatus', 'Member Section']);">Open Apparatus Member</a>
+              </p>
   
 
               <!-- Social Media Icons-->
@@ -167,13 +171,17 @@
                   </ul>   
 
               </div>
-    
 
-    </div>
+
+
+          </div>
+
+        
+        </div>
+</div>
 
   </div>
 
-</div>
 
 <!-- Bottom Content-->
 
@@ -183,15 +191,36 @@
         <br>
         <br>
 
+        <div class='images' id='topSpace'>
+
+
+          <a onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Pretty Island Image']);"><img src="images/Gallery/CatPoncho.jpg"></a>
+          <a onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Sturcture Path Image']);"><img src="assets/img/onSite/structure_path.jpg"></a>
+          <a href="assets/img/island/people_baracuda.jpg" data-lightbox="gallery" onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'People Baracuda Image']);"><img src="assets/img/onSite/people_baracuda.jpg"></a>
+          <a href="assets/img/island/island_volleyball.png" data-lightbox="gallery" onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Island Volleyball Image']);"><img src="assets/img/onSite/island_volleyball.jpg"></a>
+
+          <a href="assets/img/island/activity_volleyball.jpg" data-lightbox="gallery" onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Activity Volleyball Image']);"><img src="assets/img/onSite/activity_volleyball.jpg"></a>
+          <a href="assets/img/island/structure_dock.jpg" data-lightbox="gallery" onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Structure Dock Image']);"><img src="assets/img/onSite/structure_dock.jpg"></a>
+          <a href="assets/img/island/structure_table.jpg" data-lightbox="gallery" onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Structure Table Image']);"><img src="assets/img/onSite/structure_table.jpg"></a>
+          <a href="assets/img/island/structure_trees.jpg" data-lightbox="gallery" onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Structure Trees Image']);"><img src="assets/img/onSite/structure_trees.jpg"></a>
+              
+
+        </div>
+
         <!-- Image Gallery Section-->
+        <a onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Pretty Island Image']);"><img src="images/Gallery/CatPoncho.jpg"></a>
+        <a onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Sturcture Path Image']);"><img src="images/Gallery/RTTS.jpg"></a>
+        <a onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'People Baracuda Image']);"><img src="images/Gallery/Yoga.jpg"></a>
+        <a onClick="_gaq.push(['_trackEvent', 'Body Links', 'Click', 'Island Volleyball Image']);"><img src="assets/img/onSite/island_volleyball.jpg"></a>
+
         <a href="http://catponcho.com/"  target="_blank"><img src="images/Gallery/CatPoncho.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #1', 'CatPoncho']);"></a>
-        <a href="images/Gallery/conexbox.jpg" data-lightbox="roadtrip"><img src="images/Gallery/conexbox.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #2', 'Conex Box']);"></a>
+        <!-- <a href="images/Gallery/conexbox.jpg" data-lightbox="roadtrip"><img src="images/Gallery/conexbox.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #2', 'Conex Box']);"></a> -->
         <a href="http://blog.openapparatus.com/2013/06/18/make-happen-wagon/" target="_blank"><img src="images/Gallery/Happen_Wagon.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #3', 'Make it Happen Wagon']);"></a>
         <a href="http://www.johndangerstorey.com/#!slideshow/c1bho" target="_blank"><img src="images/Gallery/RTTS.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #4', 'Road to the Shire']);"></a>
         <a href="http://blog.openapparatus.com/listing/startup_house/" target="_blank"><img src="images/Gallery/Startup_House.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #5', 'Startup House']);"></a>
         <a href="http://www.thepuravidalodge.com" target="_blank"><img src="images/Gallery/Yoga.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #6', 'Yoga Trip']);"></a>
         <a href="http://www.kickstarter.com/projects/1478969618/hey-follow-your-dreams-the-7-steps-to-dream-follow" target="_blank"><img src="images/Gallery/Publish.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #7', 'Publish Book']);"></a>
-        <a href="http://www.openapparatus.com/contact.php"><img src="images/Gallery/SubmitYourProject.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #8', 'Submit Your Project']);"></a>
+       <!--  <a href="http://www.openapparatus.com/contact.php"><img src="images/Gallery/SubmitYourProject.jpg" style="width:24%" onClick="_gaq.push(['_trackEvent', 'Pictures', 'Picture #8', 'Submit Your Project']);"></a> -->
 
     
        </div>

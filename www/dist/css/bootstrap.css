@@ -85,6 +85,8 @@
     .sm-icons{
 
       margin-left:-45px;
+      margin-top: -534px;
+
     }
 
     .aboutContent{
@@ -5139,7 +5141,7 @@ a.list-group-item.active > .badge,
   line-height: 2.1428571435;
   color: grey;
   background-color:black;
-  background-image:url('../../images/Frog_Member.jpg');
+ /* background-image:url('../../images/Frog_Member.jpg');*/
   background-position: top-left;
   background-repeat: no-repeat;
   text-align:center;
@@ -5152,6 +5154,8 @@ a.list-group-item.active > .badge,
 
 .jumbotron p {
   line-height: 1.4;
+  position: relative;
+  top: -530px;
 }
 
 .container .jumbotron {

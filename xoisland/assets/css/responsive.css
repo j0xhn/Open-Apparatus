@@ -12,6 +12,13 @@ Things to remember:
 /* Responsive *******************/
 /********************************/
 
+
+@media screen and (min-width: 1400px) {
+	.images {
+		width: 1400px;
+	}
+}
+
 @media screen and (min-width: 800px) {
 	.menu{
 		display: none;
@@ -51,7 +58,10 @@ Things to remember:
 }
 
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 430px) {
 
-	
+	#requestBtn {
+		margin-top: 10px;
+		
+	}	
 }
