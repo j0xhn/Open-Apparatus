@@ -12,9 +12,17 @@
 
 .navbar-header img {
     position:absolute; 
-    margin-top:1px; 
-    margin-left: -13px;
+    margin-top: -5px; 
   } 
+
+#gallery {
+  width: 270px;
+  margin: 0 auto;
+}
+
+#gallery img {
+  padding: 0px 20px 20px 10px;
+}
 
 
 /* Featurettes
@@ -29,8 +37,9 @@
       margin: 80px 0; /* Space out the Bootstrap <hr> more */
     }
     .featurette {
-      padding: 120px 0px 80px; /* Vertically center images part 1: add padding above and below text. */
+      padding: 180px 0px 0px; /* Vertically center images part 1: add padding above and below text. */
       overflow: hidden; /* Vertically center images part 2: clear their floats. */
+
     }
     
     .featuretteFAQ {
@@ -89,10 +98,15 @@
       margin-left:-45px;
     }
 
-    .nav-icons ul li{
+    .nav-icons ul li {
       display: inline-block;
       float: right;
       margin-top: 10px;
+
+    }
+
+    .nav-icons img{
+      padding: 0;
     }
 
     .aboutContent{
@@ -126,7 +140,7 @@
 
       .featurette {
         height: auto;
-        padding: 0;
+        padding-top: 125px;
       }
       .featurette-image.pull-left,
       .featurette-image.pull-right {
@@ -304,6 +318,7 @@ sub {
 
 img {
   border: 0;
+  padding-top:5px;
 }
 
 svg:not(:root) {
@@ -578,6 +593,18 @@ p {
   line-height: 1.4;
 }
 
+@media (min-width: 355px) {
+    #gallery img {
+      padding-top: 5px;
+      padding: 5px;
+    }
+
+    #gallery {
+    width: 100%;
+    
+}
+}
+
 @media (min-width: 768px) {
   .lead {
     font-size: 21px;
@@ -588,6 +615,10 @@ p {
   .contactContent{
     width:500px;
     display:inline-block;
+  }
+
+  .navbar-header img {
+    margin-left: -13px;
   }
 }
 
@@ -5143,6 +5174,7 @@ a.list-group-item.active > .badge,
 
 .jumbotron p {
   line-height: 1.4;
+  margin-top: 70px;
 }
 
 .container .jumbotron {
