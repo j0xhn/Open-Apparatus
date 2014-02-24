@@ -18,6 +18,11 @@
 #gallery {
   width: 270px;
   margin: 0 auto;
+  padding-top: 80px;
+}
+
+#gallery img:first-child{
+  padding: 0px 20px 20px 0px;
 }
 
 #gallery img {
@@ -37,7 +42,7 @@
       margin: 80px 0; /* Space out the Bootstrap <hr> more */
     }
     .featurette {
-      padding: 180px 0px 0px; /* Vertically center images part 1: add padding above and below text. */
+      padding: 10px 0px 0px; /* Vertically center images part 1: add padding above and below text. */
       overflow: hidden; /* Vertically center images part 2: clear their floats. */
 
     }
@@ -620,6 +625,8 @@ p {
   .navbar-header img {
     margin-left: -13px;
   }
+
+
 }
 
 small {
@@ -1286,6 +1293,10 @@ pre code {
 }
 
 @media (min-width: 992px) {
+
+  #gallery {
+    padding-top: 130px;
+  }
 
   .container {
     max-width: 970px;
